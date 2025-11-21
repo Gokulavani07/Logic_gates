@@ -57,12 +57,19 @@ Procedure
 3.	Generate the RTL schematic and save the logic diagram.
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 5.	For different input combinations generate the timing diagram.
-6.	
+
 PROGRAM
 
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-Developed by: RegisterNumber:
+
+
+Developed by:R.Gokulavani
+
+
+RegisterNumber:25017080
+
+
 Logic symbol & Truthtable
 RTL realization Output:
 RTL
